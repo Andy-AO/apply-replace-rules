@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.andyao.applyreplacerules.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.andyao.applyreplacerules.MyBundle
 
 class MyApplicationService {
 
